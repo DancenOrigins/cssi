@@ -1,1 +1,8 @@
-h1{color: cyan;}
+h1{color: darkred;}
+.hidden{
+  display: none;
+}
+
+.green{
+  color: green;
+}
